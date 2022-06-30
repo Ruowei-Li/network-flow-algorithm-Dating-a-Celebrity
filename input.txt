@@ -1,0 +1,266 @@
+6
+3 7
+PrincessCindy
+MrBig
+BillGates
+Zena MrBig
+BuckJock PrincessCindy BillGates 
+DrMJD MrBig PrincessCindy BillGates 
+MissyC MrBig BillGates 
+MicheleJackson MrBig
+MrsSmith
+AdamSandman PrincessCindy
+3 6
+CaptainKirk
+MrSpock
+Xindi
+FakeZena MrSpock
+BuckGuy MrSpock
+DrLove MrSpock
+MissyC MrSpock
+BootyJackson MrSpock
+AliceSandy CaptainKirk Xindi
+16 64
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16 
+17 10 
+18 0 
+19 
+20 11 2 
+21 
+22 2 
+23 
+24 10 
+25 13 
+26 
+27 
+28 10 12 
+29 14 
+30 8 10 
+31 11 
+32 14 
+33 
+34 11 
+35 6 1 10 
+36 5 14 
+37 12 10 
+38 14 
+39 3 5 1 
+40 8 
+41 4 8 
+42 
+43 7 5 15 
+44 13 
+45 
+46 12 
+47 15 1 10 
+48 12 
+49 2 
+50 11 
+51 0 7 
+52 11 13 
+53 13 10 
+54 15 11 
+55 8 
+56 
+57 10 
+58 13 10 1 
+59 
+60 
+61 15 13 
+62 
+63 5 13 
+64 12 11 13 
+65 9 
+66 12 10 6 
+67 
+68 11 
+69 3 15 
+70 8 10 9 
+71 3 8 
+72 5 11 
+73 10 5 2 
+74 1 5 
+75 10 
+76 
+77 
+78 8 
+79 10
+20 50
+c0
+c1
+c2
+c3
+c4
+c5
+c6
+c7
+c8
+c9
+c10
+c11
+c12
+c13
+c14
+c15
+c16
+c17
+c18
+c19
+f0 c2
+f1 c2 c8 c9 c10
+f2 c0
+f3 c0 c1
+f4 c1
+f5 c0 c1
+f6 c2 c8 c9 c10
+f7 c1 c0
+f8 c1 c0
+f9 c0 c1
+f10 c0
+f11 c1
+f12 c2 c8 c9 c10
+f13 c2 c8 c9
+f14 c0 c2
+f15 c0 c1 c2
+f16 c0
+f17 c2 c8 c9 c10
+f18 c2 c8 c9
+f19 c12 c8 c9 c5
+f20 c1
+f21 c2
+f22 c0 c2
+f23 c5
+f24 c1
+f25 c2 c8 c9
+f26 c0
+f27 c1 c0
+f28 c2 c8 c9
+f29 c2 c8 c9
+f30 c2
+f31 c0
+f32 c0
+f33 c0
+f34 c2 c8 c9
+f35 c2 c8 c9
+f36 c0
+f37 c0
+f38 c4
+f39 c2 c8 c9
+f40 c2
+f41 c5 c0
+f42 c0 c2
+f43 c2 c4
+f44 c2
+f45 c2
+f46 c2
+f47 c1 c0
+f48 c1 c0
+f49 c2
+15 30
+c0
+c1
+c2
+c3
+c4
+c5
+c6
+c7
+c8
+c9
+c10
+c11
+c12
+c13
+c14
+f0
+f1 c4
+f2 c1
+f3 c0 c1 c7
+f4
+f5 c0 c4
+f6 c0 c1
+f7
+f8
+f9 c1 c0
+f10 c1 c0
+f11 c0 c7
+f12 c0 c1 c4
+f13
+f14 c0 c2
+f15 c0
+f16
+f17
+f18
+f19
+f20 c0 c1
+f21 c3
+f22 c0 c1 c3
+f23 c2
+f24 c0 c3
+f25 c0
+f26 c0 c6 c2
+f27 c0 c1
+f28 c0 c2
+f29 c1 c2
+15 30
+c0
+c1
+c2
+c3
+c4
+c5
+c6
+c7
+c8
+c9
+c10
+c11
+c12
+c13
+c14
+f0 c2 c3
+f1 c4
+f2 c1
+f3 c0 c1 c7
+f4 c2 c3
+f5 c0 c4
+f6 c0 c1
+f7 c2 c3
+f8 c2
+f9 c1 c0
+f10 c1 c0
+f11 c0 c7
+f12 c0 c1 c4
+f13 c0 c7
+f14 c0 c2
+f15 c0
+f16 c0 c7
+f17 c0 c7
+f18 c0 c7
+f19
+f20 c0 c1
+f21 c3
+f22 c0 c1 c3
+f23 c2
+f24 c0 c3
+f25 c0
+f26 c0 c6 c2
+f27 c0 c1
+f28 c0 c2
+f29 c1 c2 c3
